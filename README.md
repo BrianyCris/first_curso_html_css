@@ -12,7 +12,7 @@ Primeiro curso da Udemy com Matheus Batisti
     * git status  
 
 * Para adicionar aquivos no github
-    * git add .
+    * git add . 
 
 * Para realizar o commit
     * git commit -m "a"
