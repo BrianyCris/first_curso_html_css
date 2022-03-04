@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    width: 200px;   /** 1 usado para definir uma largura*/
+    height: 200px;  /** 2 usado para definir uma altura*/
+    margin: 10px;  /**  3 usado para definir margens em volta*/
+    background-color: red;  /** 4 define uma cor de fundo */
+    color: white;  /** 5 define uma cor de fonte */
+    font-size: 22px;  /** 6 define um tamnho de fonte */
+    border-radius: 10px;  /** 7 define arredondamento de bordas*/
+}
