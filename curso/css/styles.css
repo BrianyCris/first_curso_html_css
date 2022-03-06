@@ -1,0 +1,42 @@
+h1 {
+    color:pink;
+}
+p {
+    color:aquamarine;
+}
+
+h2 {
+    color:blueviolet;
+    text-align: center;
+    font-size: 50px;
+
+}
+/*
+comentário
+comentário*/
+
+/* classes e id */
+
+.p-texto {
+    color: lightgren;
+}
+
+#título-app {
+    color:purple;
+    font-size:40px;
+
+}
+
+.div-background {
+   background-image: url('./img/carnaval.jpg');
+   height: 300px;
+}
+
+h1{
+    text-align:center;
+}
+
+
+
+
+
