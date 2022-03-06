@@ -101,3 +101,23 @@ display: block;
     margin:0;
 }
 
+
+/*Positions*/
+/*static*/
+/*relative*/
+/*fixed*/
+/*absolut*/
+/*sticky*/
+
+.position{
+    width:500px;
+    height: 500px;
+    background-color:red;
+    border-bottom: 2px dotted;
+
+}
+
+.static {
+    position: static;
+    top:100px;
+}
