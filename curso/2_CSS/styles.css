@@ -2,7 +2,7 @@ h1 {
     color:pink;
 }
 p {
-    color:aquamarine;
+    font-size: 45px;
 }
 
 h2 {
@@ -50,10 +50,7 @@ comentário*/
 
 .bold {
     font-weight: bold;
-    color: red;
+    
 }
 
-.variant {
-    font-variant: small-caps;
-}
 

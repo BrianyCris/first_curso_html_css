@@ -35,25 +35,34 @@ comentário*/
 .titulo-background{
     text-align:center;
     background: color #000;
-    color:#fff;
+    color:#fff
     
 }
-
-.italic {
-    font-style: italic;
-
+/*fontes */
+.family{
+    color:#000;
+    font-size:40px;
 }
 
-.oblique {
- font-style: oblique;
+.family.serif{
+    color:green;
+    font-size:40px;
 }
 
-.bold {
-    font-weight: bold;
-    color: red;
+.serif {
+    font-family:"times new roman";
 }
 
-.variant {
-    font-variant: small-caps;
+.sans-serif {
+    font-family:"arial";
 }
+
+.monospace {
+    font-family:"Courier New;"
+}
+
+.
+
+
+
 
