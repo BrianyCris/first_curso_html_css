@@ -109,7 +109,7 @@ display: block;
 /*absolut*/
 /*sticky*/
 
-.position{
+.div-position{
     width:500px;
     height: 500px;
     background-color:red;
@@ -120,4 +120,26 @@ display: block;
 .static {
     position: static;
     top:100px;
+}
+
+.relative {
+    position: relative;
+    background-color: blue;
+    top: 100px;
+    left: 150px;
+
+}
+
+.absolute {
+    position: absolute;
+    background-color: purple;
+    right: 0;
+    top: 0;
+}
+.mini-div {
+    height: 50px;
+    width: 50px;
+    top: 50px;
+    left: 100px;
+
 }
