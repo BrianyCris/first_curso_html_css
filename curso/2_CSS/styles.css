@@ -103,11 +103,11 @@ display: block;
 
 
 /*Positions*/
-/*static*/
-/*relative*/
-/*fixed*/
-/*absolut*/
-/*sticky*/
+/*static -quaflow no HTML, não é alterado por top,left,right e bottom*/
+/*relative - flow no HTML, ela é alterada pelo top, left,right  bottom*/
+/*fixed - posiciona em qualquer lugar da tela, e é posicionada em relaçao ao HTML */
+/*absolut - posicina em qualquer lugar, e ela respeita o elemento antecessor*/
+/*sticky está na flow do HTML, porém ao passar o scroll ela funcona como fixed*/
 
 .div-position{
     width:500px;
@@ -151,4 +151,10 @@ display: block;
      background-color: yellow;
      bottom: 0;
      right: 0;
+}
+
+.sticky{
+    position: sticky;
+    background-color: gray;
+    top:0px;
 }
