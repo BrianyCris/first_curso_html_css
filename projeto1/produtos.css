@@ -1,0 +1,36 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+body{
+    background-color: yellow;
+}
+.container{
+    background-color: red;
+    width: 100%; height: 100vh;
+}
+.x, .y{
+    width: 30%; height: 100px;
+    margin: auto;
+    text-align: center;
+}
+.formulario{
+    height: 30%; width: 20%;
+    padding-top: 25px;
+    padding-left: 50px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: auto;
+}
+input{
+    height: 25px;
+    border-radius: 2px;
+    border: none;
+}
+label{
+    color: white;
+    font-weight: bold;
+}
+.btn{
+    width: 100px;
+    color: white;
+    font-weight: bold;
+    background-color: blueviolet;
+}

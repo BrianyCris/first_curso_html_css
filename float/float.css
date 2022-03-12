@@ -1,0 +1,34 @@
+.sticky {
+    position: sticky;
+    background-color: gray;
+    top:0px;
+}
+
+/*Float*/
+.container {
+    padding:50px;
+}
+
+.div-float{
+    overflow:auto;
+}
+
+.img-float {
+    width:200px;
+    height:200px;
+    float: left;
+    
+}
+
+.float-right {
+    float: right;
+}
+
+.div-float{
+    overflow:auto;
+}
+
+.p-float {
+    color:#000
+
+}
