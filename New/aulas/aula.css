@@ -1,0 +1,56 @@
+.box-top{
+    background-color: black;
+}
+.box-pai-card{
+    background-color: aqua;
+}
+.box-pai-table{
+    background-color: red;
+}
+.box-rodape{
+    background-color: gray;
+}
+
+
+
+
+/**
+
+Seletores tags h1, h2, div tr, table tbody
+    Unidades de medida
+    em, rem, px, %
+    id #
+    class .
+
+    do lado do css eu uso
+    . class
+    # id
+
+    do lado do html eu uso
+
+    id="titulo"
+    class="card"
+
+
+    =============================================
+    background-color == ok
+    color == ok
+    border == ok
+    border-radius ==0k
+    width==ok
+    heigth==ok
+    font-size==ok
+    margin
+        margin-left
+        margin-top
+        margin-right
+        margin-bottom
+    padding
+        padding-left
+        padding-top
+        padding-right
+        padding-bottom
+    float
+        float-left
+        float-right
+**/
